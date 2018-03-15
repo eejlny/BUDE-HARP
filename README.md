@@ -1,15 +1,14 @@
 # BUDE-HARP
 
-
-Test of BUDE algorithm in HARP Intel that uses an Arria10 FPGA with the following technical details:                                         
+Test of BUDE algorithm in HARP Intel that uses an Arria10 FPGA with the following technical details:
 
 GX 1150
 Logic Elements (LE) (K)
 1,150
 ALM
-427,200                                   
+427,200
 Register
-1,708,800                                  
+1,708,800
 Memory (Kb)
 M20K
 54,260
@@ -39,6 +38,6 @@ Average Time (milliseconds)
 3.4
 Floating point ops (Giga)
 27.41
-99.71                           
-106.12           
+99.71
+106.12
 15365.7
